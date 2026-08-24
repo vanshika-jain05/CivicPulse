@@ -28,11 +28,11 @@ Generated once from real Groq API calls, committed as proof of working integrati
 > The streetlight outside house number 45 in my colony has been off for two weeks, it's very dark and unsafe to walk at night.
 
 - **Category:** street_light
-- **Severity:** 6.0
-- **Urgency:** 8.0
-- **Safety risk:** 7.0
+- **Severity:** 5.0
+- **Urgency:** 7.0
+- **Safety risk:** 6.0
 - **Public impact:** 4.0
-- **Priority score:** 6.35
+- **Priority score:** 5.55
 - **Routed to:** Electricity Department
 
 ### Complaint
@@ -50,9 +50,9 @@ Generated once from real Groq API calls, committed as proof of working integrati
 > No power in our entire block since this morning, it's exam day for my kids and they can't study.
 
 - **Category:** power_outage
-- **Severity:** 6.0
+- **Severity:** 7.0
 - **Urgency:** 9.0
-- **Safety risk:** 2.0
-- **Public impact:** 7.0
-- **Priority score:** 5.95
+- **Safety risk:** 4.0
+- **Public impact:** 6.0
+- **Priority score:** 6.55
 - **Routed to:** Electricity Department
