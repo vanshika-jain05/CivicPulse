@@ -50,5 +50,12 @@ def run():
         print("Final priority score:", priority_score)
 
 
+import sys
+
 if __name__ == "__main__":
+    if len(sys.argv) > 1:
+        # Run a single custom complaint: uv run python test_ai_analyzer.py "your text here"
+        custom_text = " ".join(sys.argv[1:])
+        SAMPLE_COMPLAINTS.append(custom_text)
+
     run()
